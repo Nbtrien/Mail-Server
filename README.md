@@ -16,9 +16,9 @@ This app is a simple and full featured mail server.
 ## Screenshots
 
 <div>
-  <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/mail.png" alt = "" height="240px"/>
-  <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/mail2.png" alt = "" height="240px"/>
-  <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/mail3.png" alt = "" height="240px"/>
+  <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/mail.png" alt = "" height="220px"/>
+  <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/mail2.png" alt = "" height="220px"/>
+  <img src = "https://github.com/Nbtrien/Mail-Server/blob/master/src/mail3.png" alt = "" height="220px"/>
 </div>
 </br>
 <div>
